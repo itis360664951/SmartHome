@@ -1,10 +1,9 @@
 ## Project Title.
 
-#### SmartHome
+#### スマートホームに関する研究
 
 ## Elevator Pitch.
 
-http://wen.mki.biz/wordpress/wp-admin/post.php?post=48&action=edit
 
 ## Description
 
